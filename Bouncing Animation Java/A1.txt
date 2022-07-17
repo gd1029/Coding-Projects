@@ -1,0 +1,13 @@
+Name: Grace Du
+Login Name: mdu119
+ID Number: 650459747
+JDK Version: Java 8
+Time Taken: 25 hours
+Easy: 1. Questions using the same format made me familiar with classes
+	  2. Being able to apply lab knowledge 
+	  
+Hard: 1. Understanding what the question was asking
+	  2. Feeling like some of the questions asked were a lot harder than class taught content
+	  3. Trying to understand the given code
+	  4. Some code would pass on coderunner but will not compile so had to change certain aspects
+	  
